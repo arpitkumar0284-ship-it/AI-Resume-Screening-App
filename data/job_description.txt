@@ -1,0 +1,17 @@
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy NLP models.
+
+Required Skills:
+Python, Machine Learning, NLP, scikit-learn, PyTorch or TensorFlow, SQL, Docker
+
+Good to Have:
+Transformers, Sentence-BERT, AWS, MLOps, FastAPI
+
+Experience:
+2 to 5 years of experience in machine learning or data science.
+
+Responsibilities:
+- Build and deploy machine learning and NLP models.
+- Work with data pipelines and large datasets.
+- Deploy models as APIs and monitor their performance.

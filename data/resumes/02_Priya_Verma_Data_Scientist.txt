@@ -1,0 +1,20 @@
+Priya Verma
+Email: priya.verma@example.com | Phone: +91-90000-00002 | Location: Gurugram
+
+SUMMARY
+Data Scientist with 3 years of experience in predictive modeling, statistics and data visualization.
+
+SKILLS
+Python, pandas, NumPy, scikit-learn, XGBoost, SQL, Tableau, Statistics, Machine Learning, Feature Engineering
+
+EXPERIENCE
+Data Scientist, FinEdge Analytics (2023 - Present)
+- Built customer churn prediction model using XGBoost, improving retention by 12%.
+- Performed feature engineering and hyperparameter tuning on 2M+ records.
+- Presented insights to business teams using Tableau dashboards.
+
+Junior Data Analyst, DataWorks (2021 - 2023)
+- Cleaned and analysed datasets using pandas and SQL.
+
+EDUCATION
+M.Sc. in Statistics, 2021

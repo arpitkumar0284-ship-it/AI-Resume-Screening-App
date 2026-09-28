@@ -1,0 +1,17 @@
+Rahul Khanna
+Email: rahul.khanna@example.com | Phone: +91-90000-00009 | Location: Noida
+
+SUMMARY
+Data Analyst with 2 years of experience in reporting, SQL and basic machine learning.
+
+SKILLS
+SQL, Excel, Power BI, Python, pandas, Data Visualization, Basic Machine Learning
+
+EXPERIENCE
+Data Analyst, RetailMind (2024 - Present)
+- Built Power BI dashboards for sales and inventory tracking.
+- Wrote SQL queries to analyse customer purchase behaviour.
+- Built a simple sales forecasting model using Python.
+
+EDUCATION
+B.Com with Data Analytics certification, 2024

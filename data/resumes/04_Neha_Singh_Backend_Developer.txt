@@ -1,0 +1,19 @@
+Neha Singh
+Email: neha.singh@example.com | Phone: +91-90000-00004 | Location: Noida
+
+SUMMARY
+Backend Developer with 5 years of experience building scalable APIs and microservices.
+
+SKILLS
+Java, Spring Boot, Microservices, REST APIs, MySQL, MongoDB, Kafka, Docker, Kubernetes, Git
+
+EXPERIENCE
+Senior Software Engineer, CloudBridge (2021 - Present)
+- Designed microservices handling 10k+ requests per second.
+- Migrated monolith application to Kubernetes-based architecture.
+
+Software Engineer, AppLogic (2019 - 2021)
+- Developed REST APIs and database schemas using Spring Boot and MySQL.
+
+EDUCATION
+B.Tech in Information Technology, 2019

@@ -1,0 +1,19 @@
+Karan Malhotra
+Email: karan.malhotra@example.com | Phone: +91-90000-00007 | Location: Pune
+
+SUMMARY
+Deep Learning Engineer with 3 years of experience in computer vision and model optimization.
+
+SKILLS
+Python, PyTorch, OpenCV, CNN, Object Detection, YOLO, TensorFlow, Docker, Machine Learning, Git
+
+EXPERIENCE
+Deep Learning Engineer, VisionTech (2023 - Present)
+- Developed defect detection system using YOLO with 94% mAP.
+- Optimized models for edge deployment, reducing latency by 35%.
+
+Research Intern, AI Lab (2022 - 2023)
+- Worked on image classification and data augmentation techniques.
+
+EDUCATION
+B.Tech in Electronics and Communication, 2022

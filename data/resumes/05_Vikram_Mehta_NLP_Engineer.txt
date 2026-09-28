@@ -1,0 +1,20 @@
+Vikram Mehta
+Email: vikram.mehta@example.com | Phone: +91-90000-00005 | Location: Bengaluru
+
+SUMMARY
+NLP Engineer with 5 years of experience in text mining, information extraction and semantic search.
+
+SKILLS
+Python, spaCy, NLTK, Hugging Face Transformers, Sentence-BERT, Named Entity Recognition, Text Classification, Elasticsearch, FastAPI, SQL
+
+EXPERIENCE
+NLP Engineer, TalentAI (2021 - Present)
+- Built resume parsing system extracting skills, experience and education using NER.
+- Implemented semantic candidate-job matching using Sentence-BERT embeddings.
+- Exposed models through FastAPI services.
+
+Data Scientist, TextLabs (2019 - 2021)
+- Developed text classification models for customer feedback analysis.
+
+EDUCATION
+M.Tech in Computer Science, 2019

@@ -1,0 +1,19 @@
+Anjali Rao
+Email: anjali.rao@example.com | Phone: +91-90000-00008 | Location: Hyderabad
+
+SUMMARY
+Frontend Developer with 3 years of experience building responsive web applications.
+
+SKILLS
+JavaScript, React, HTML, CSS, TypeScript, Redux, Figma, REST APIs, Git
+
+EXPERIENCE
+Frontend Developer, WebCraft Studio (2023 - Present)
+- Built responsive dashboards using React and TypeScript.
+- Improved page load time by 30% through code splitting.
+
+Junior Web Developer, PixelWorks (2022 - 2023)
+- Developed landing pages using HTML, CSS and JavaScript.
+
+EDUCATION
+B.Sc. in Computer Science, 2022

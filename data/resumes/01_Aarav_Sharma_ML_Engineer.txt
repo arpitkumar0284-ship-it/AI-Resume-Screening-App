@@ -1,0 +1,20 @@
+Aarav Sharma
+Email: aarav.sharma@example.com | Phone: +91-90000-00001 | Location: Noida
+
+SUMMARY
+Machine Learning Engineer with 4 years of experience building and deploying NLP and recommendation models in production.
+
+SKILLS
+Python, PyTorch, TensorFlow, scikit-learn, NLP, Transformers, SQL, Docker, AWS, MLOps, Git
+
+EXPERIENCE
+ML Engineer, TechNova Solutions (2022 - Present)
+- Built a resume-ticket classification model using BERT with 92% accuracy.
+- Deployed models with Docker and AWS SageMaker, reducing inference time by 40%.
+- Worked with data engineers to build feature pipelines using SQL and Python.
+
+Data Analyst, InfoCore (2020 - 2022)
+- Created dashboards and predictive models for sales forecasting.
+
+EDUCATION
+B.Tech in Computer Science, 2020

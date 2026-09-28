@@ -1,0 +1,20 @@
+Rohan Gupta
+Email: rohan.gupta@example.com | Phone: +91-90000-00003 | Location: Ghaziabad
+
+SUMMARY
+Fresher B.Tech graduate interested in Artificial Intelligence and Machine Learning.
+
+SKILLS
+Python, basic machine learning, pandas, NumPy, Matplotlib, Jupyter Notebook
+
+PROJECTS
+- House price prediction using linear regression.
+- Handwritten digit recognition using a simple neural network.
+- Movie recommendation system using cosine similarity.
+
+INTERNSHIP
+AI Intern, LearnSmart (3 months, 2025)
+- Assisted in data cleaning and model training tasks.
+
+EDUCATION
+B.Tech in Computer Science, 2025

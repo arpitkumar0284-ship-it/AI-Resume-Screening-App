@@ -1,0 +1,19 @@
+Meera Joshi
+Email: meera.joshi@example.com | Phone: +91-90000-00010 | Location: Gurugram
+
+SUMMARY
+MLOps Engineer with 4 years of experience productionizing machine learning models and building CI/CD pipelines.
+
+SKILLS
+Python, Docker, Kubernetes, AWS, MLflow, Airflow, CI/CD, scikit-learn, FastAPI, Monitoring, SQL
+
+EXPERIENCE
+MLOps Engineer, DataStream Systems (2022 - Present)
+- Built automated training and deployment pipelines using Airflow and MLflow.
+- Deployed ML models on Kubernetes with monitoring for data drift.
+
+DevOps Engineer, CloudOps (2020 - 2022)
+- Managed CI/CD pipelines and AWS infrastructure.
+
+EDUCATION
+B.Tech in Computer Science, 2020
